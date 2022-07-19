@@ -1,0 +1,75 @@
+Log created: 2022-07-19 03:49:23
+Type: backup
+[2022-07-19 03:49:24][notice]Start backing up.
+[2022-07-19 03:49:24][notice]server info fcgi:On max execution time: 180 wp version:6.0.1 php version:8.1.7 db version:10.8.3 php ini:safe_mode: memory_limit:256M memory_get_usage:40.09 MB memory_get_peak_usage:41.26 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-07-19 03:49:24][notice]Prepare to backup backup_db files.
+[2022-07-19 03:49:24][notice]Start exporting database.
+[2022-07-19 03:49:24][notice]max_allowed_packet less than 32M :16.00 MB
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_commentmeta
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_comments
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_links
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_options
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_postmeta
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_posts
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_termmeta
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_terms
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_term_relationships
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_term_taxonomy
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_usermeta
+[2022-07-19 03:49:24][notice]Preparing to dump table wp_users
+[2022-07-19 03:49:24][notice]Exporting database finished.
+[2022-07-19 03:49:24][notice]Start compressing backup_db
+[2022-07-19 03:49:24][notice]Prepare to zip files. file: electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_db.zip
+[2022-07-19 03:49:24][notice]Adding zip files completed.electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_db.zip, filesize: 1,023.53 KB
+[2022-07-19 03:49:24][notice]Compressing backup_db completed
+[2022-07-19 03:49:24][notice]Backing up backup_db completed.
+[2022-07-19 03:49:24][notice]Prepare to backup backup_themes files.
+[2022-07-19 03:49:24][notice]File number: 384
+[2022-07-19 03:49:24][notice]Start compressing backup_themes
+[2022-07-19 03:49:24][notice]Prepare to zip files. file: electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_themes.zip
+[2022-07-19 03:49:24][notice]Adding zip files completed.electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_themes.zip, filesize: 11.60 MB
+[2022-07-19 03:49:24][notice]Compressing backup_themes completed
+[2022-07-19 03:49:24][notice]Backing up backup_themes completed.
+[2022-07-19 03:49:25][notice]Prepare to backup backup_plugin files.
+[2022-07-19 03:49:25][notice]File number: 5283
+[2022-07-19 03:49:25][notice]Start compressing backup_plugin
+[2022-07-19 03:49:29][notice]Prepare to zip files. file: electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_plugin.zip
+[2022-07-19 03:49:30][notice]Adding zip files completed.electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_plugin.zip, filesize: 40.19 MB
+[2022-07-19 03:49:30][notice]Compressing backup_plugin completed
+[2022-07-19 03:49:30][notice]Backing up backup_plugin completed.
+[2022-07-19 03:49:30][notice]Prepare to backup backup_uploads files.
+[2022-07-19 03:49:30][notice]File number: 1
+[2022-07-19 03:49:30][notice]Start compressing backup_uploads
+[2022-07-19 03:49:30][notice]Prepare to zip files. file: electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_uploads.zip
+[2022-07-19 03:49:30][notice]Adding zip files completed.electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_uploads.zip, filesize: 398.00 B
+[2022-07-19 03:49:30][notice]Compressing backup_uploads completed
+[2022-07-19 03:49:30][notice]Backing up backup_uploads completed.
+[2022-07-19 03:49:31][notice]Prepare to backup backup_content files.
+[2022-07-19 03:49:31][notice]File number: 1
+[2022-07-19 03:49:31][notice]Start compressing backup_content
+[2022-07-19 03:49:31][notice]Prepare to zip files. file: electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_content.zip
+[2022-07-19 03:49:31][notice]Adding zip files completed.electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_content.zip, filesize: 432.00 B
+[2022-07-19 03:49:31][notice]Compressing backup_content completed
+[2022-07-19 03:49:31][notice]Backing up backup_content completed.
+[2022-07-19 03:49:31][notice]Prepare to backup backup_core files.
+[2022-07-19 03:49:31][notice]File number: 2476
+[2022-07-19 03:49:31][notice]Start compressing backup_core
+[2022-07-19 03:49:32][notice]Prepare to zip files. file: electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_core.zip
+[2022-07-19 03:49:33][notice]Adding zip files completed.electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_core.zip, filesize: 47.57 MB
+[2022-07-19 03:49:33][notice]Compressing backup_core completed
+[2022-07-19 03:49:33][notice]Backing up backup_core completed.
+[2022-07-19 03:49:33][notice]Prepare to backup backup_merge files.
+[2022-07-19 03:49:33][notice]File number: 6
+[2022-07-19 03:49:33][notice]Start compressing backup_merge
+[2022-07-19 03:49:33][notice]Prepare to zip files. file: electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_all.zip
+[2022-07-19 03:49:36][notice]Adding zip files completed.electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_all.zip, filesize: 33.21 MB
+[2022-07-19 03:49:36][notice]Cleaned up file, filename: C:\Users\mobis\prog\Sites\electroconsult/wp-content\wpvividbackups\electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_core.zip
+[2022-07-19 03:49:36][notice]Cleaned up file, filename: C:\Users\mobis\prog\Sites\electroconsult/wp-content\wpvividbackups\electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_plugin.zip
+[2022-07-19 03:49:36][notice]Cleaned up file, filename: C:\Users\mobis\prog\Sites\electroconsult/wp-content\wpvividbackups\electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_themes.zip
+[2022-07-19 03:49:36][notice]Cleaned up file, filename: C:\Users\mobis\prog\Sites\electroconsult/wp-content\wpvividbackups\electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_db.zip
+[2022-07-19 03:49:36][notice]Cleaned up file, filename: C:\Users\mobis\prog\Sites\electroconsult/wp-content\wpvividbackups\electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_content.zip
+[2022-07-19 03:49:36][notice]Cleaned up file, filename: C:\Users\mobis\prog\Sites\electroconsult/wp-content\wpvividbackups\electroconsult.test_wpvivid-62d629c3849f3_2022-07-19-03-49_backup_uploads.zip
+[2022-07-19 03:49:36][notice]Compressing backup_merge completed
+[2022-07-19 03:49:36][notice]Backing up backup_merge completed.
+[2022-07-19 03:49:36][notice]Backup completed.
+[2022-07-19 03:49:36][notice]Backup succeeded.

@@ -1,0 +1,181 @@
+0000.000 (0) Opened log file at time: Tue, 19 Jul 2022 03:47:58 +0000 on http://electroconsult.test
+0000.010 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 8.1.7 (cgi-fcgi, Windows NT DESKTOP-8T9FOKP 10.0 build 19044 (Windows 10) AMD64) MySQL: 10.8.3-MariaDB (max packet size=16777216) WPLANG: en_US Server: nginx/1.19.5 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 29.7M | 32M) multisite: N openssl: OpenSSL 1.1.1o  3 May 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.013 (0) Free space on disk containing Updraft's temporary directory: 30447.5 MB
+0000.018 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.021 (0) Semaphore (fd, wp_options) being initialised
+0000.029 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.036 (0) Set semaphore last lock (fd) time to 2022-07-19 03:47:58
+0000.038 (0) Semaphore lock (fd) complete
+0000.046 (0) Backup run: resumption=0, nonce=07ef9ff07e61, file_nonce=07ef9ff07e61 begun at=1658202478 (0s ago), job type=backup
+0000.050 (0) Scheduling a resumption (1) after 300 seconds (1658202778) in case this run gets aborted
+0000.063 (0) Checking if we have a zip executable available
+0000.068 (0) Creation of backups of directories: beginning
+0000.078 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.413 (0) Total entities for the zip file: 267 directories, 1527 files (0 skipped as non-modified), 25.7 MB
+0000.450 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.485 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.521 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0000.555 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0000.590 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0000.625 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0000.660 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0000.695 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0000.729 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0000.766 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0000.770 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.3 MB, 1527 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0002.208 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 1100 files added (on-disk size: 6425.7 KB)
+0002.243 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 1200 files added (on-disk size: 6425.7 KB)
+0002.278 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 1300 files added (on-disk size: 6425.7 KB)
+0002.312 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 1400 files added (on-disk size: 6425.7 KB)
+0002.347 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.tmp: 1500 files added (on-disk size: 6425.7 KB)
+0002.742 (0) Creating zip file manifest (backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.list-temp.tmp)
+0002.751 (0) Successfully created zip file manifest (size: 134711)
+0002.819 (0) Created plugins zip (0) - 7437 KB in 2.7 s (2716.2 KB/s) (sha1: 9a899131144f62a052f428226fb7526fcecd3854, sha256: a245e696c5b922496ac20279ad966e5e64d8d8441db7c6e6bfd0dc301bd6e161)
+0002.826 (0) Beginning creation of dump of themes (split every: 400 MB)
+0002.919 (0) Total entities for the zip file: 79 directories, 384 files (0 skipped as non-modified), 11.5 MB
+0002.955 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.992 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0003.029 (0) Zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0003.421 (0) Creating zip file manifest (backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-themes.zip.list-temp.tmp)
+0003.426 (0) Successfully created zip file manifest (size: 27254)
+0003.510 (0) Created themes zip (0) - 9388 KB in 0.7 s (13800.6 KB/s) (sha1: 249d0d7eed458341171a27f37d9f0e448ec81877, sha256: 4fe37ff461eb699b452be279c8f14b92e436bebd0a080226df6b9c96d4db1514)
+0003.517 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0003.519 (0) Looking for candidates to backup in: C:\Users\mobis\prog\Sites\electroconsult/wp-content/uploads
+0003.522 (0) finding files: 2022: adding to list (1)
+0003.524 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0003.532 (0) Total entities for the zip file: 2 directories, 0 files (0 skipped as non-modified), 0 MB
+0003.541 (0) Did not find any files in the zip: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-uploads.zip.tmp
+0003.548 (0) Created uploads zip (0) - 0.2 KB in 0 s (11.3 KB/s) (sha1: a3fb6ad12a3ef993f40500b6db4ba5bfb1a7b0d7, sha256: 6929f0522d02349a311ae4fcc06ba1fc3dc2c77cb26478c804c5e5f9d0b06a48)
+0003.554 (0) Beginning backup of other directories found in the content directory (index: 0)
+0003.556 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0003.558 (0) Looking for candidates to backup in: C:\Users\mobis\prog\Sites\electroconsult/wp-content
+0003.560 (0) finding files: index.php: adding to list (1)
+0003.561 (0) finding files: plugins: skipping: this is the plugins directory
+0003.563 (0) finding files: themes: skipping: this is the themes directory
+0003.564 (0) finding files: updraft: skipping: this is the updraft directory
+0003.566 (0) finding files: upgrade: skipping: excluded by options
+0003.568 (0) finding files: uploads: skipping: this is the uploads directory
+0003.574 (0) Total entities for the zip file: 0 directories, 1 files (0 skipped as non-modified), 0 MB
+0003.591 (0) Creating zip file manifest (backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-others.zip.list-temp.tmp)
+0003.594 (0) Successfully created zip file manifest (size: 43)
+0003.604 (0) Created others zip (0) - 0.1 KB in 0 s (4.3 KB/s) (sha1: 93f42550c53273aba8843d7af0babc61c8be7674, sha256: caaf79a31dc1e41441da384e385cad4750f795f4d302a203f7346bfc85f98b2b)
+0003.616 (0) Saving backup status to database (elements: 8)
+0003.622 (0) Beginning creation of database dump (WordPress DB)
+0003.625 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0003.631 (0) Testing potential mysqldump binary: C:\Program Files\MySQL\MySQL Workbench 8.0 CE\mysqldump.exe
+0003.720 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!50503 SET character_set_client = utf8mb4 */;\n (truncated - 1309 bytes total)
+0003.726 (0) Binary mysqldump: error (code: 2)
+0003.769 (0) Table wp_options: Total expected rows (via COUNT): 173
+0003.772 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.816 (0) Table wp_options: Rows added in this batch (next record: 178): 169 (uncompressed bytes in this segment=997112) in 0.05 seconds
+0003.831 (0) Table wp_options: finishing file(s) (2, 255.4 KB)
+0003.843 (0) Table wp_users: Total expected rows (via COUNT): 1
+0003.846 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.852 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1384) in 0.01 seconds
+0003.864 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0003.879 (0) Table wp_usermeta: Total expected rows (via COUNT): 18
+0003.882 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.885 (0) Table wp_usermeta: Rows added in this batch (next record: 18): 18 (uncompressed bytes in this segment=1667) in 0.01 seconds
+0003.899 (0) Table wp_usermeta: finishing file(s) (2, 0.9 KB)
+0003.913 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0003.919 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.01 seconds
+0003.933 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0003.944 (0) Table wp_comments: Total expected rows (via COUNT): 1
+0003.947 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0003.953 (0) Table wp_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2133) in 0.01 seconds
+0003.965 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0003.976 (0) Table wp_links: Total expected rows (via COUNT): 0
+0003.982 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1306) in 0.01 seconds
+0003.993 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0004.006 (0) Table wp_postmeta: Total expected rows (via COUNT): 2
+0004.009 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0004.014 (0) Table wp_postmeta: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=801) in 0.01 seconds
+0004.025 (0) Table wp_postmeta: finishing file(s) (2, 0.4 KB)
+0004.037 (0) Table wp_posts: Total expected rows (via COUNT): 4
+0004.039 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0004.041 (0) Table wp_posts: Rows added in this batch (next record: 4): 4 (uncompressed bytes in this segment=9746) in 0.01 seconds
+0004.050 (0) Table wp_posts: finishing file(s) (2, 3 KB)
+0004.059 (0) Table wp_term_relationships: Total expected rows (approximate): 1
+0004.064 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 1 (uncompressed bytes in this segment=696) in 0.01 seconds
+0004.074 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0004.086 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 1
+0004.088 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0004.092 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=920) in 0.01 seconds
+0004.105 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.4 KB)
+0004.118 (0) Table wp_termmeta: Total expected rows (via COUNT): 0
+0004.126 (0) Table wp_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.01 seconds
+0004.139 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0004.153 (0) Table wp_terms: Total expected rows (via COUNT): 1
+0004.156 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0004.162 (0) Table wp_terms: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=734) in 0.02 seconds
+0004.173 (0) Table wp_terms: finishing file(s) (2, 0.4 KB)
+0004.175 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\mobis\prog\Sites\electroconsult/wp-content/updraft/backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db.gz (line 1884, C:\Users\mobis\prog\Sites\electroconsult\wp-content\plugins\updraftplus\backup.php)
+0004.179 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_options.table.tmpr179.gz (1/12/fopen): adding to final database dump
+0004.187 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_options.table.gz (2/12/fopen): adding to final database dump
+0004.189 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_users.table.tmpr2.gz (3/12/fopen): adding to final database dump
+0004.192 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_users.table.gz (4/12/fopen): adding to final database dump
+0004.195 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_usermeta.table.tmpr19.gz (5/12/fopen): adding to final database dump
+0004.197 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_usermeta.table.gz (6/12/fopen): adding to final database dump
+0004.200 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_commentmeta.table.tmpr0.gz (7/12/fopen): adding to final database dump
+0004.203 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_commentmeta.table.gz (8/12/fopen): adding to final database dump
+0004.205 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_comments.table.tmpr2.gz (9/12/fopen): adding to final database dump
+0004.208 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_comments.table.gz (10/12/fopen): adding to final database dump
+0004.211 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_links.table.tmpr0.gz (11/12/fopen): adding to final database dump
+0004.213 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_links.table.gz (12/12/fopen): adding to final database dump
+0004.215 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_postmeta.table.tmpr3.gz (13/12/fopen): adding to final database dump
+0004.218 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_postmeta.table.gz (14/12/fopen): adding to final database dump
+0004.221 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_posts.table.tmpr5.gz (15/12/fopen): adding to final database dump
+0004.224 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_posts.table.gz (16/12/fopen): adding to final database dump
+0004.226 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_term_relationships.table.tmpr100001.gz (17/12/fopen): adding to final database dump
+0004.229 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_term_relationships.table.gz (18/12/fopen): adding to final database dump
+0004.231 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_term_taxonomy.table.tmpr2.gz (19/12/fopen): adding to final database dump
+0004.234 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_term_taxonomy.table.gz (20/12/fopen): adding to final database dump
+0004.237 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_termmeta.table.tmpr0.gz (21/12/fopen): adding to final database dump
+0004.239 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_termmeta.table.gz (22/12/fopen): adding to final database dump
+0004.242 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_terms.table.tmpr2.gz (23/12/fopen): adding to final database dump
+0004.244 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db-table-wp_terms.table.gz (24/12/fopen): adding to final database dump
+0004.266 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db.gz: finished writing out complete database file (263.8 KB)
+0004.285 (0) Total database tables backed up: 12 (backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db.gz, size: 270254, sha1: 3d25f6fe0cdcc3280d749f747d2daf59d21c2e57, sha256: 31f4e3064465a4928ad16b7bfffcfb04ce748aac68c12e896440fbb443f52fc4)
+0004.293 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 2802, C:\Users\mobis\prog\Sites\electroconsult\wp-content\plugins\updraftplus\backup.php)
+0004.299 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0004.301 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0004.304 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0004.306 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-others.zip: others: This file has not yet been successfully uploaded: will queue
+0004.309 (0) backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db.gz: db: This file has not yet been successfully uploaded: will queue
+0004.311 (0) Saving backup history. Total backup size: 16.7 MB
+0004.316 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0004.324 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0004.327 (0) No remote despatch: user chose no remote backup service
+0004.329 (0) Recording as successfully uploaded: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip
+0004.334 (0) Deleting zip manifest (backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-plugins.zip.list.tmp)
+0004.336 (0) Recording as successfully uploaded: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-themes.zip
+0004.341 (0) Deleting zip manifest (backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-themes.zip.list.tmp)
+0004.343 (0) Recording as successfully uploaded: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-uploads.zip
+0004.348 (0) Recording as successfully uploaded: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-others.zip
+0004.352 (0) Deleting zip manifest (backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-others.zip.list.tmp)
+0004.354 (0) Recording as successfully uploaded: backup_2022-07-19-0347_Electro_Consult_07ef9ff07e61-db.gz
+0004.360 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0004.362 (0) Number of backup sets in history: 1; groups (db): 1
+0004.363 (0) Examining (for databases) backup set with group_id=0, nonce=07ef9ff07e61, datestamp=1658202478 (Jul 19 2022 03:47:58)
+0004.365 (0) This backup set is the backup set just made, so will not be deleted.
+0004.365 (0) Number of backup sets in history: 1; groups (files): 1
+0004.366 (0) Examining (for files) backup set with nonce=07ef9ff07e61, datestamp=1658202478 (Jul 19 2022 03:47:58)
+0004.366 (0) This backup set is the backup set just made, so will not be deleted.
+0004.368 (0) This backup set is the backup set just made, so will not be deleted.
+0004.368 (0) This backup set is the backup set just made, so will not be deleted.
+0004.368 (0) This backup set is the backup set just made, so will not be deleted.
+0004.368 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0004.370 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0004.373 (0) Resume backup (07ef9ff07e61, 0): finish run
+0004.418 (0) Decremented the semaphore (fd) by 1
+0004.421 (0) Semaphore (fd) unlocked
+0004.423 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0004.428 (0) No email will/can be sent - the user has not configured an email address.
+0004.430 (0) The backup apparently succeeded and is now complete
+0000.000 (1) Opened log file at time: Tue, 19 Jul 2022 03:52:58 +0000 on http://electroconsult.test
+0000.002 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 8.1.7 (cgi-fcgi, Windows NT DESKTOP-8T9FOKP 10.0 build 19044 (Windows 10) AMD64) MySQL: 10.8.3-MariaDB (max packet size=16777216) WPLANG: en_US Server: nginx/1.19.5 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 24.8M | 26M) multisite: N openssl: OpenSSL 1.1.1o  3 May 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.004 (1) Free space on disk containing Updraft's temporary directory: 30252.3 MB
+0000.006 (1) Requesting backup semaphore lock (07ef9ff07e61)
+0000.009 (1) [Debug] Lock option (updraft_lock_07ef9ff07e61, wp_options) was created in the database
+0000.011 (1) [Info] Lock (updraft_lock_07ef9ff07e61, wp_options) acquired after initialising the database
+0000.013 (1) This backup task (07ef9ff07e61) is either complete or began over 2 days ago: ending (1658202778.7965, ) (existing jobdata keys: )
